@@ -18,7 +18,7 @@ body{
 header{
     background-color: #ffffff;
     margin: 30px auto;
-    padding: 25px;
+    padding: 25px; color: aqua;
     width: 90%;
     max-width: 1000px;
     border: 1px solid #e8dccb;
